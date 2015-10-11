@@ -1,0 +1,104 @@
+Press A to allocate memory, F to free memory, E to exit 
+a
+==7249== Invalid write of size 4
+==7249==    at 0x8463C41: ???
+==7249==    by 0x845A556: ???
+==7249==    by 0x8459FAD: ???
+==7249==    by 0x845A0C1: ???
+==7249==    by 0x845A0C1: ???
+==7249==    by 0x845A0C1: ???
+==7249==    by 0x845A0C1: ???
+==7249==    by 0x8459FF2: ???
+==7249==    by 0x8459FF2: ???
+==7249==    by 0x84544F6: ???
+==7249==    by 0x63A2213: JavaCalls::call_helper(JavaValue*, methodHandle*, JavaCallArguments*, Thread*) (in /usr/lib/jvm/java-6-openjdk-amd64/jre/lib/amd64/server/libjvm.so)
+==7249==    by 0x63A1C87: JavaCalls::call(JavaValue*, methodHandle, JavaCallArguments*, Thread*) (in /usr/lib/jvm/java-6-openjdk-amd64/jre/lib/amd64/server/libjvm.so)
+==7249==  Address 0x41576a0 is on thread 2's stack
+==7249==  4096 bytes below stack pointer
+==7249== 
+==7249== Invalid write of size 4
+==7249==    at 0x8463C48: ???
+==7249==    by 0x845A556: ???
+==7249==    by 0x8459FAD: ???
+==7249==    by 0x845A0C1: ???
+==7249==    by 0x845A0C1: ???
+==7249==    by 0x845A0C1: ???
+==7249==    by 0x845A0C1: ???
+==7249==    by 0x8459FF2: ???
+==7249==    by 0x8459FF2: ???
+==7249==    by 0x84544F6: ???
+==7249==    by 0x63A2213: JavaCalls::call_helper(JavaValue*, methodHandle*, JavaCallArguments*, Thread*) (in /usr/lib/jvm/java-6-openjdk-amd64/jre/lib/amd64/server/libjvm.so)
+==7249==    by 0x63A1C87: JavaCalls::call(JavaValue*, methodHandle, JavaCallArguments*, Thread*) (in /usr/lib/jvm/java-6-openjdk-amd64/jre/lib/amd64/server/libjvm.so)
+==7249==  Address 0x41566a0 is on thread 2's stack
+==7249==  8192 bytes below stack pointer
+==7249== 
+==7249== Invalid write of size 4
+==7249==    at 0x8463C4F: ???
+==7249==    by 0x845A556: ???
+==7249==    by 0x8459FAD: ???
+==7249==    by 0x845A0C1: ???
+==7249==    by 0x845A0C1: ???
+==7249==    by 0x845A0C1: ???
+==7249==    by 0x845A0C1: ???
+==7249==    by 0x8459FF2: ???
+==7249==    by 0x8459FF2: ???
+==7249==    by 0x84544F6: ???
+==7249==    by 0x63A2213: JavaCalls::call_helper(JavaValue*, methodHandle*, JavaCallArguments*, Thread*) (in /usr/lib/jvm/java-6-openjdk-amd64/jre/lib/amd64/server/libjvm.so)
+==7249==    by 0x63A1C87: JavaCalls::call(JavaValue*, methodHandle, JavaCallArguments*, Thread*) (in /usr/lib/jvm/java-6-openjdk-amd64/jre/lib/amd64/server/libjvm.so)
+==7249==  Address 0x41556a0 is on thread 2's stack
+==7249==  12288 bytes below stack pointer
+==7249== 
+==7249== Invalid write of size 4
+==7249==    at 0x8463C56: ???
+==7249==    by 0x845A556: ???
+==7249==    by 0x8459FAD: ???
+==7249==    by 0x845A0C1: ???
+==7249==    by 0x845A0C1: ???
+==7249==    by 0x845A0C1: ???
+==7249==    by 0x845A0C1: ???
+==7249==    by 0x8459FF2: ???
+==7249==    by 0x8459FF2: ???
+==7249==    by 0x84544F6: ???
+==7249==    by 0x63A2213: JavaCalls::call_helper(JavaValue*, methodHandle*, JavaCallArguments*, Thread*) (in /usr/lib/jvm/java-6-openjdk-amd64/jre/lib/amd64/server/libjvm.so)
+==7249==    by 0x63A1C87: JavaCalls::call(JavaValue*, methodHandle, JavaCallArguments*, Thread*) (in /usr/lib/jvm/java-6-openjdk-amd64/jre/lib/amd64/server/libjvm.so)
+==7249==  Address 0x41546a0 is on thread 2's stack
+==7249==  16384 bytes below stack pointer
+==7249== 
+==7249== Invalid write of size 4
+==7249==    at 0x8463C5D: ???
+==7249==    by 0x845A556: ???
+==7249==    by 0x8459FAD: ???
+==7249==    by 0x845A0C1: ???
+==7249==    by 0x845A0C1: ???
+==7249==    by 0x845A0C1: ???
+==7249==    by 0x845A0C1: ???
+==7249==    by 0x8459FF2: ???
+==7249==    by 0x8459FF2: ???
+==7249==    by 0x84544F6: ???
+==7249==    by 0x63A2213: JavaCalls::call_helper(JavaValue*, methodHandle*, JavaCallArguments*, Thread*) (in /usr/lib/jvm/java-6-openjdk-amd64/jre/lib/amd64/server/libjvm.so)
+==7249==    by 0x63A1C87: JavaCalls::call(JavaValue*, methodHandle, JavaCallArguments*, Thread*) (in /usr/lib/jvm/java-6-openjdk-amd64/jre/lib/amd64/server/libjvm.so)
+==7249==  Address 0x41536a0 is on thread 2's stack
+==7249==  20480 bytes below stack pointer
+==7249== 
+==7249== Invalid write of size 4
+==7249==    at 0x8463C64: ???
+==7249==    by 0x845A556: ???
+==7249==    by 0x8459FAD: ???
+==7249==    by 0x845A0C1: ???
+==7249==    by 0x845A0C1: ???
+==7249==    by 0x845A0C1: ???
+==7249==    by 0x845A0C1: ???
+==7249==    by 0x8459FF2: ???
+==7249==    by 0x8459FF2: ???
+==7249==    by 0x84544F6: ???
+==7249==    by 0x63A2213: JavaCalls::call_helper(JavaValue*, methodHandle*, JavaCallArguments*, Thread*) (in /usr/lib/jvm/java-6-openjdk-amd64/jre/lib/amd64/server/libjvm.so)
+==7249==    by 0x63A1C87: JavaCalls::call(JavaValue*, methodHandle, JavaCallArguments*, Thread*) (in /usr/lib/jvm/java-6-openjdk-amd64/jre/lib/amd64/server/libjvm.so)
+==7249==  Address 0x41526a0 is on thread 2's stack
+==7249==  24576 bytes below stack pointer
+==7249== 
+Ok
+Press A to allocate memory, F to free memory, E to exit 
+f
+Press A to allocate memory, F to free memory, E to exit 
+e
+...
